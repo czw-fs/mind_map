@@ -1,12 +1,12 @@
 1.smart input 
-2.github copilot
-3.mybatisCodeHelperPro
-4.POJO to JSON
-6.CamelCase
-7.Translation
-8.Comments Highlighter
-9.Cool Request
-12.Bean Assistant
+2.mybatisCodeHelperPro
+3.POJO to JSON
+4.CamelCase
+5.Translation
+6.Comments Highlighter
+7.Cool Request
+8.Bean Assistant
+9.Better Highlights
 
 油猴脚本：
 1.【玩的嗨】VIP工具箱,夸克网盘直链批量获取,全网VIP视频免费破解去广告,获取B站封面,下载B站视频等众多功能聚合 长期更新，放心使用
