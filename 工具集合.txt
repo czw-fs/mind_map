@@ -1,4 +1,4 @@
-idea插件必装：
+idea插件：
 1.smart input 
 2.mybatisCodeHelperPro
 3.POJO to JSON
@@ -16,3 +16,4 @@ idea插件必装：
 lockhunter
 listary
 Alt-Tab Terminator
+Geek Uninstaller
