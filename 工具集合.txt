@@ -18,3 +18,4 @@ listary
 Alt-Tab Terminator
 Geek Uninstaller
 Ditto clipboard manager
+TreeSize Free
