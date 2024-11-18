@@ -12,6 +12,12 @@ idea插件：
 油猴脚本：
 1.【玩的嗨】VIP工具箱,夸克网盘直链批量获取,全网VIP视频免费破解去广告,获取B站封面,下载B站视频等众多功能聚合 长期更新，放心使用
 
+google插件：
+1.沉浸式翻译
+2.篡改猴
+3.Cookie Manager
+4.Tab Manager by Workona
+
 工具：
 lockhunter 查看锁定程序进程
 listary 查找文件
