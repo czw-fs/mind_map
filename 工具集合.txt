@@ -1,5 +1,5 @@
 idea插件：
-1.smart input 
+1.smart input
 2.mybatisCodeHelperPro
 3.POJO to JSON
 4.CamelCase
@@ -8,6 +8,7 @@ idea插件：
 7.Cool Request
 8.Bean Assistant
 9.Better Highlights
+10.GenerateAllSetter
 
 油猴脚本：
 1.【玩的嗨】VIP工具箱,夸克网盘直链批量获取,全网VIP视频免费破解去广告,获取B站封面,下载B站视频等众多功能聚合 长期更新，放心使用
@@ -18,7 +19,7 @@ google插件：
 3.Cookie Manager
 4.Tab Manager by Workona
 
-工具：
+windows工具：
 lockhunter 查看锁定程序进程
 listary 查找文件
 Geek Uninstaller 删除工具
