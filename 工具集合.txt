@@ -1,5 +1,5 @@
 idea插件：
-1.smart input 
+1.smart input
 2.mybatisCodeHelperPro
 3.POJO to JSON
 4.CamelCase
@@ -8,17 +8,30 @@ idea插件：
 7.Cool Request
 8.Bean Assistant
 9.Better Highlights
+10.GenerateAllSetter
 
 油猴脚本：
 1.【玩的嗨】VIP工具箱,夸克网盘直链批量获取,全网VIP视频免费破解去广告,获取B站封面,下载B站视频等众多功能聚合 长期更新，放心使用
 
-工具：
+google插件：
+1.沉浸式翻译
+2.篡改猴
+3.Cookie Manager
+4.Tab Manager by Workona
+
+windows工具：
 lockhunter 查看锁定程序进程
 listary 查找文件
 Geek Uninstaller 删除工具
 TreeSize Free ： 查看每个目录大小
 Drive-Icon-Manager 删除此电脑icon
 BitComet 免费下载工具
+
+关闭windows11二级菜单
+管理员模式启动终端输入：
+reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+在任务管理器中重启资源管理器或直接重启电脑
+
 
 弃用：
 Alt-Tab Terminator 用了一段时间，感觉不如原生的
