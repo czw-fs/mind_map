@@ -18,6 +18,7 @@ listary 查找文件
 Geek Uninstaller 删除工具
 TreeSize Free ： 查看每个目录大小
 Drive-Icon-Manager 删除此电脑icon
+BitComet 免费下载工具
 
 弃用：
 Alt-Tab Terminator 用了一段时间，感觉不如原生的
