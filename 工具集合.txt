@@ -33,6 +33,8 @@ BitComet 免费下载工具
 reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
 在任务管理器中重启资源管理器或直接重启电脑
 
+抢票软件：
+https://www.bypass.cn/
 
 弃用：
 Alt-Tab Terminator 用了一段时间，感觉不如原生的
