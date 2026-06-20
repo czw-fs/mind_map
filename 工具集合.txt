@@ -19,6 +19,7 @@ google插件：
 2.篡改猴
 3.Cookie Manager
 4.Tab Manager by Workona
+5.https://github.com/fishjar/kiss-translator
 
 windows工具：
 lockhunter 查看锁定程序进程
